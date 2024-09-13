@@ -2,7 +2,7 @@ import os
 import re
 import shutil
 
-root = "..\\book\\"
+root = "..\\class\\Investment\\"
 books = os.scandir(root)
 pattern =  r'!\[.*?\]\((.*?)\)|!\[\[(.*?)\]\]'
 
@@ -33,9 +33,9 @@ for book in (v for v in list(books) if v.is_dir()):
             if os.path.exists(dest): continue
 
             try:
-                shutil.move(img, dest)
+                shutil.move("..\\..\\"+img, dest)
             except FileNotFoundError:
-                shutil.move("재무금융\\"+img, dest)
+                shutil.move("..\\..\\finance\\img\\"+img, dest)
             except Exception as e:
                 print(e, book.name)
                 raise e
