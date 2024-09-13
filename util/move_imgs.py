@@ -7,11 +7,12 @@ books = os.scandir(root)
 pattern =  r'!\[.*?\]\((.*?)\)|!\[\[(.*?)\]\]'
 
 def format_and_add_resource_prefix(match):
-    if match.group(1) and "resource" in match.group(1):
-        return f"![]({match.group(1)})"
     if match.group(1):
-        return f'![](resource/{match.group(1)})'
-    return f'![](resource/{match.group(2)})'
+        if ("resource" in match.group(1) or "http" in match.group(1)):
+            return f"![]({match.group(1).replace(' ', '%20')})"
+        else:
+            return f'![](resource/{match.group(1).replace(" ", "%20")})'
+    return f'![](resource/{match.group(2).replace(" ", "%20")})'
 
 for book in (v for v in list(books) if v.is_dir()):
     notes = os.listdir(root+book.name)

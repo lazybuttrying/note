@@ -1,19 +1,19 @@
-![](resource/Pasted image 20240508191713.png)
+![](resource/Pasted%20image%2020240508191713.png)
 
 # Ch 11) Efficient Market Hypothesis
-![](resource/Pasted image 20240520145223.png)
+![](resource/Pasted%20image%2020240520145223.png)
 
-![](resource/Pasted image 20240508192201.png)
+![](resource/Pasted%20image%2020240508192201.png)
 ### 11)  
 The answer is a. 
 Weak form EMH asserts that stock prices already reflect market trading data. It implies that trend analysis is fruitless
 
-![](resource/Pasted image 20240508192232.png)
+![](resource/Pasted%20image%2020240508192232.png)
 ### 15)
 Yes.
 Private information triggers the price rising. It's impossible in EMH.
 
-![](resource/Pasted image 20240508192252.png)
+![](resource/Pasted%20image%2020240508192252.png)
 ### 25)
 1. Do event studies on past announcement. If security prices reflect all currently available information, then price changes must reflect new information. Therefore, it seems that one should be able to measure the importance of an event of interest by examining price changes during the peroid in which the event occurs.
 2. Determine abnormal return from market model including industry.
@@ -25,14 +25,14 @@ Investor was dissapointed that increased annual earning is lower than expectatio
 ### 27)
 Thinly traded stock has a scarce market trading data. CAPM explains market risk premiums. Thus, positive CAPM alpha implies the higher alphas in market risk and does not violates market efficiency.
 
-![](resource/Pasted image 20240509122817.png)
+![](resource/Pasted%20image%2020240509122817.png)
 ### 28)
 Insider sells before the bad news.
 Insider purchases after the bad news with expectation of good news. 
 
 
 
-![](resource/Pasted image 20240508192348.png)
+![](resource/Pasted%20image%2020240508192348.png)
 ### 29)
 
 (a) No. Timing to determine the cycle phase is difficult to everyone. Changing risk premiums is not related to market efficiency
@@ -40,12 +40,12 @@ Insider purchases after the bad news with expectation of good news.
 (b) Stock price decreases in recession, becuase risk tolerance might be lower and investors could sell many stocks. In contrast, stock price increases in booming, because risk tolerance might be higher and investors could buy many stocks.  This price impact occurs in short period which means 'overreact.'
 
 
-![](resource/Pasted image 20240508192439.png)
+![](resource/Pasted%20image%2020240508192439.png)
 ### CFA 3)
 The answer is c.
 Random walk implies unpredictable change on stock price.
 
-![](resource/Pasted image 20240508192500.png)
+![](resource/Pasted%20image%2020240508192500.png)
 ### CFA 7)
 
 (a)
@@ -67,20 +67,20 @@ Bias in Information Processing
 - Sample size neglect and Representativeness: do not take into account the size of a sample, acting as if a small sample is just as representative of a population as a large one.
 
 
-![](resource/Pasted image 20240508192553.png)
+![](resource/Pasted%20image%2020240508192553.png)
 ### 3)
 Overconfidence.
 Investors overestimate the precision of their beliefs or forecasts and they tend to overestimate their abilities.
 
 
-![](resource/Pasted image 20240508192606.png)
+![](resource/Pasted%20image%2020240508192606.png)
 ### 5)
 New information will be adjusted to price quickly in efficient market. Therefore only indexing is the best well-adjusted price compared to the other.
 Mispricing from bias in information processing cause lower returns in behavioral finance. Therefore indexing is the best because bias in information processing cannot exist in indexing.
 
 
 
-![](resource/Pasted image 20240508192634.png)
+![](resource/Pasted%20image%2020240508192634.png)
 ### 9)
 
 a -> iv
@@ -90,16 +90,16 @@ d -> i
 e -> ii
 
 
-![](resource/Pasted image 20240508192725.png)
+![](resource/Pasted%20image%2020240508192725.png)
 ### 12)
 Because irractional investors makes mispricing continuously. Therefore we need efficient allocation to hedge the risk of irrational investors.
 
 # CH 18) Equity Valuation Models
 
-![](resource/Pasted image 20240520145138.png)
+![](resource/Pasted%20image%2020240520145138.png)
 
 
-![](resource/Pasted image 20240508192821.png)
+![](resource/Pasted%20image%2020240508192821.png)
 ### 8)
 
 (a)
@@ -119,7 +119,7 @@ pessimistic forecast -> price falls & earning maintains -> PER falls
 
 
 
-![](resource/Pasted image 20240508192801.png)
+![](resource/Pasted%20image%2020240508192801.png)
 ### 10)
 
 (a)
@@ -146,7 +146,7 @@ pessimistic forecast -> price falls & earning maintains -> PER falls
 - $V_0>P_0$: $(15.8462>10.6)$ 
 
 
-![](resource/Pasted image 20240508192902.png)![](resource/Pasted image 20240508192910.png)
+![](resource/Pasted%20image%2020240508192902.png)![](resource/Pasted%20image%2020240508192910.png)
 ### 17)
 
 5 years
@@ -178,7 +178,7 @@ The price will rise upto 15% per year until year 6 because total earning goes re
 - $V_0=\cfrac{V_5}{(1+k)^5}=\cfrac{185.7946}{1.15^5}=92.37273$
 
 
-![](resource/Pasted image 20240508192926.png)![](resource/Pasted image 20240508192937.png)
+![](resource/Pasted%20image%2020240508192926.png)![](resource/Pasted%20image%2020240508192937.png)
 ### 23)
 
 (a)
@@ -214,7 +214,7 @@ The price will rise upto 15% per year until year 6 because total earning goes re
 - $R_3 = \cfrac{(P_3-P_2)+D_3}{P_2}=\cfrac{(9.064-8.551)+0.7696}{8.551}=0.150$
 
 
-![](resource/Pasted image 20240508193058.png)
+![](resource/Pasted%20image%2020240508193058.png)
 
 ### CFA 1)
 
@@ -230,7 +230,7 @@ Higher dividend is not clear estimator of stock price.
 - ii) Growth rate of book value will rise/fall if dividend payout ratio is fallen/rised. Lower  growth rate of book value causes lower dividend payout ratio. 
 
 
-![](resource/Pasted image 20240508193159.png)
+![](resource/Pasted%20image%2020240508193159.png)
 ### CFA 8)
 
 (a)
@@ -261,7 +261,7 @@ Higher dividend is not clear estimator of stock price.
 - purchase bond == cash outflow
 - receipt coupon payment and face value == cash inflows
 
-![](resource/Pasted image 20240520160318.png)
+![](resource/Pasted%20image%2020240520160318.png)
 - $n$: the number of time periods ($n=20$ of 10 years)
 - $i$: the interest rate per period
 	- If the interest rate is 6%, you would enter 6, not 0.06.
@@ -270,7 +270,7 @@ Higher dividend is not clear estimator of stock price.
 - $PMT$: the amount of any recurring payment
 	- for zero-coupon bonds, $PMT$ will be zero
 
-![](resource/Pasted image 20240531195129.png)
+![](resource/Pasted%20image%2020240531195129.png)
 
 - Bond Indentures
 	- = contract(restriction) between the issuer and the bond holder
@@ -281,7 +281,7 @@ Higher dividend is not clear estimator of stock price.
 		- Collateral trust bond: If the collateral takes the form of other securities held by the firm
 		- Debenture bonds: unsecured, meaning they do not provide for specific collateral
 	
-![](resource/Pasted image 20240508193301.png)
+![](resource/Pasted%20image%2020240508193301.png)
 ### 25) 
 - Issue size: ABC has larger debt than XYZ 
 - Maturity: ABC has shorter maturity than XYZ
@@ -291,7 +291,7 @@ Higher dividend is not clear estimator of stock price.
 
 
 
-![](resource/Pasted image 20240508193329.png)![](resource/Pasted image 20240508193349.png)
+![](resource/Pasted%20image%2020240508193329.png)![](resource/Pasted%20image%2020240508193349.png)
 ### CFA 3) 
 
 (a)
@@ -322,7 +322,7 @@ After executing call feature, expected life of bond becomes shorter than maturit
 - Disadvantage: risk of calling (short maturity)
 
 
-![](resource/Pasted image 20240508193421.png)
+![](resource/Pasted%20image%2020240508193421.png)
 
 ### CFA 6)
 
@@ -338,9 +338,9 @@ After executing call feature, expected life of bond becomes shorter than maturit
 
 # CH 15) Term Structure of Interest Rates
 
-![](resource/Pasted image 20240521123151.png)
+![](resource/Pasted%20image%2020240521123151.png)
 
-![](resource/Pasted image 20240508193504.png)
+![](resource/Pasted%20image%2020240508193504.png)
 
 ### 7)  
 
@@ -358,7 +358,7 @@ Let the face value of the bond $1000 for simplicity
 
 
 
-![](resource/Pasted image 20240508193520.png)
+![](resource/Pasted%20image%2020240508193520.png)
 ### 8)
 
 | Year | Sum of Forward Rate |                         | Expected Price (a) |          | Expected Rate of Return (b) |            |
@@ -370,7 +370,7 @@ Let the face value of the bond $1000 for simplicity
 
 
 
-![](resource/Pasted image 20240508193553.png)
+![](resource/Pasted%20image%2020240508193553.png)
 ### 11) 
 
 (a)
@@ -388,7 +388,7 @@ Let the face value of the bond $1000 for simplicity
 - $P=\cfrac{100(1+0.09)}{1+0.08009}=100.91719$
 
 
-![](resource/Pasted image 20240508193618.png)
+![](resource/Pasted%20image%2020240508193618.png)
 ### 13)
 
 +) Annuity Factor: $=\cfrac{1-(1+y)^{-t}}{y}$
@@ -427,7 +427,7 @@ Let the face value of the bond $1000 for simplicity
 
 
 
-![](resource/Pasted image 20240508193659.png)
+![](resource/Pasted%20image%2020240508193659.png)
 ### CFA 1)
 
 Yield curve reflects investor ==expectations== about future interest rates. 
@@ -438,12 +438,12 @@ As a result, (1) **long-term interest rates** will typically be **higher than sh
 
 # CH 16) Managing Bond Portfoilo
 
-![](resource/Pasted image 20240531002059.png)
+![](resource/Pasted%20image%2020240531002059.png)
 
 
 
-![](resource/Pasted image 20240508193814.png)
-![](resource/Pasted image 20240508193830.png)
+![](resource/Pasted%20image%2020240508193814.png)
+![](resource/Pasted%20image%2020240508193830.png)
 ### 12)
 
 (a)
@@ -468,7 +468,7 @@ As a result, (1) **long-term interest rates** will typically be **higher than sh
 - Net position decrease to $18080.18168-18079.98637=0.1953$
 
 
-![](resource/Pasted image 20240508193922.png)
+![](resource/Pasted%20image%2020240508193922.png)
 ### 14)
 
 (a)
@@ -483,7 +483,7 @@ As a result, (1) **long-term interest rates** will typically be **higher than sh
 	- invest 0.7059 in zero-coupon bond and 1-0.7059 in perpetuity
 
 
-![](resource/Pasted image 20240508193959.png)
+![](resource/Pasted%20image%2020240508193959.png)
 ### 23) 
 
 - Let par value as 1000 for simplicity.
@@ -530,7 +530,7 @@ As a result, (1) **long-term interest rates** will typically be **higher than sh
 	- Lower convexity -> price fall -> YTM increase (higher yield)
 - If rates change slightly, higher yield & lower convexity bond will be preferred. But changing large amount, lower yield & higher convexity bond will be preferred.
 
-![](resource/Pasted image 20240508194035.png)![](resource/Pasted image 20240508194045.png)
+![](resource/Pasted%20image%2020240508194035.png)![](resource/Pasted%20image%2020240508194045.png)
 
 ### CFA 3) 
 
@@ -547,10 +547,10 @@ ii. Modified duration will decrease due to decreasing maturity duration
 
 # CH 24) Portfolio Performance Evaluation
 
-![](resource/Pasted image 20240531002240.png)
+![](resource/Pasted%20image%2020240531002240.png)
 
 
-![](resource/Pasted image 20240508194154.png)
+![](resource/Pasted%20image%2020240508194154.png)
 ### 9)
 
 (a)
@@ -577,7 +577,7 @@ ii. Stock B for hedge to market portfolio
 iii. Stock B due to higher treynor measure
 
 
-![](resource/Pasted image 20240508194224.png)
+![](resource/Pasted%20image%2020240508194224.png)
 ### 10)
 
 |     | Selection |               | Timing |           |
@@ -589,7 +589,7 @@ iii. Stock B due to higher treynor measure
 - Intercept means excess return. 
 - Negative excess return means poor selection.
 
-![](resource/Pasted image 20240508194239.png)
+![](resource/Pasted%20image%2020240508194239.png)
 ### 11)
 
 (a)
@@ -619,7 +619,7 @@ iii. Stock B due to higher treynor measure
 - $-0.39\% + 0.13\% = -0.26\%$
 
 
-![](resource/Pasted image 20240531000918.png)
+![](resource/Pasted%20image%2020240531000918.png)
 ### CFA 4)
 
 - $\cfrac{0.11-0.08}{1.1}=0.0273$
@@ -628,8 +628,8 @@ iii. Stock B due to higher treynor measure
 - $\cfrac{0.24-0.08}{0.18}=0.8889$
 
 
-![](resource/Pasted image 20240531000947.png)
-![](resource/Pasted image 20240531000935.png)
+![](resource/Pasted%20image%2020240531000947.png)
+![](resource/Pasted%20image%2020240531000935.png)
 ### CFA 6)
 
 (a)

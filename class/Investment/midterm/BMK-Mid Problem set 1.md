@@ -2,7 +2,7 @@
 
 ## Ch. 5(Risk, Return, and Historical Record): CFA문제 #3, 4, 5, 6
 
-![](resource/https://lh7-us.googleusercontent.com/65M15ig8H3UmIPsyAqxzoStXs8FYf6eOTUijtM5QKAnRckoLgkXs5S_NF4n9gnh_sHYsP62tkG2IhRuuYsal-NyJWT0nd96sgPCl-CV37MRpsldqyH2C1QdQNPvDt3RbHiM9bjXeNXaZuFfnoHfggj4)
+![](https://lh7-us.googleusercontent.com/65M15ig8H3UmIPsyAqxzoStXs8FYf6eOTUijtM5QKAnRckoLgkXs5S_NF4n9gnh_sHYsP62tkG2IhRuuYsal-NyJWT0nd96sgPCl-CV37MRpsldqyH2C1QdQNPvDt3RbHiM9bjXeNXaZuFfnoHfggj4)
 ### 3)
 $E(R_X) = (0.2 \times [-20\%]) + (0.5 \times 18\%) + (0.3 \times 50\%) = 20\%$
 $E(R_Y) = (0.2 \times [-15\%]) + (0.5 \times 20\%) + (0.3 \times 10\%) = 10\%$
@@ -23,7 +23,7 @@ $0.5\cdot0.3=0.15$
 > 	> Question 17: 16% -> 10%
 > 	> Question 18: 18% -> 12%
 
-![](resource/https://lh7-us.googleusercontent.com/wA4J-M5El80TYRjMezobqcnbib83Dn_05-T4U8BihLOpkNzF1Bq-_766i5J2KB0Lo_-o-PbkIS4hGz6kY_tAi-Hrkz_it7HwmTDUIu4Ec7Z35hJlucmqFMiIbOMLzq6WLHQaS2pyu-qXkjkCvYRnMeE)
+![](https://lh7-us.googleusercontent.com/wA4J-M5El80TYRjMezobqcnbib83Dn_05-T4U8BihLOpkNzF1Bq-_766i5J2KB0Lo_-o-PbkIS4hGz6kY_tAi-Hrkz_it7HwmTDUIu4Ec7Z35hJlucmqFMiIbOMLzq6WLHQaS2pyu-qXkjkCvYRnMeE)
 
 ### 13)
 $E(R)=0.7\cdot0.12+0.3*0.02=0.09$
@@ -37,7 +37,7 @@ $\sigma = 0.7\cdot0.28=0.196$
 - My sharpe ratio: $S=\cfrac{0.12-0.02}{0.28}=0.3571$
 - Client's Sharpe ratio $S=\cfrac{0.09-0.02}{0.196}=0.3571$
 ### 16)
-![](resource/Pasted image 20240415142822.png)
+![](resource/Pasted%20image%2020240415142822.png)
 ### 17)
 - a) $0.10 = 0.02+w(0.12-0.02)$
 	- $\therefore w =0.8$
@@ -59,7 +59,7 @@ $\sigma = 0.7\cdot0.28=0.196$
 ## Ch. 7(Optimal Risky Portfolios): #4, 5, 6, 7, 8, 9, 10, 11, 12
 
 ![](resource/https://lh7-us.googleusercontent.com/-qtMRPjAeWSXCxgRGGIG8hVsgjcEXoKEUxwvG9ROoEj9_4O_PpXd_Ft3KDWJDkHFRoXhIbPoH5iiuoIuz8Qs6oDIXaBMUUXvmCCWCokOID6Vrxo9aB33f75vsB7pcL6xyxQF_Evz_Aj8xRAjG4hMgzI)
-![](resource/Pasted image 20240415175148.png)
+![](resource/Pasted%20image%2020240415175148.png)
 
 ### 4) 
 - $Cov(R_S, R_B) = \rho\sigma_S\sigma_B=0.0045$ 
@@ -86,7 +86,7 @@ $\sigma = 0.7\cdot0.28=0.196$
 - Expected Return is approximately 15.6%
 - Standard Deviation is approximately 16.5%
 
-![](resource/Pasted image 20240414194832.png)
+![](resource/Pasted%20image%2020240414194832.png)
 ### 7)
 - $w_S = \cfrac{ (E[R_S] - R_f) \sigma_B^2 - (E[R_B] - R_f) \times \text{Cov}(R_S, R_B) }{ (E[R_S] - R_f) \sigma_B^2 + (E[R_B] - R_f) \sigma_S^2 - (E[R_S] - R_f + E[R_B] - R_f) \times \text{Cov}(R_S, R_B) }$
 	- $= \cfrac{ (.20 - .08) \times 225 - (.12 - .08) \times 45 }{ (.20 - .08) \times 225 + (.12 - .08) \times 900 - (.20 - .08 + .12 - .08) \times 45 } \approx 0.4516$
@@ -110,15 +110,15 @@ Sharpe Ratio: $\cfrac{E(R_P)-R_f}{\sigma_P} \approx \cfrac{0.1561-0.08}{0.1654}=
 - Stock 25%, Bond 75%
 - $\sigma_p = \sqrt{ (0.25^2 \times 900) + (0.75^2 \times 225) + [2 \times 0.25 \times 0.75 \times 45]} \approx 14.13\%$
 
-![](resource/Pasted image 20240415175201.png)
+![](resource/Pasted%20image%2020240415175201.png)
 ### 11)
-- a) Yes. Because of diversification. Gold has a low or negative correlation with stocks. By including gold, an investor can potentially reduce the portfolio's overall volatility. ![](resource/Pasted image 20240415180943.png)
-- b) Nobody holds gold. The bundle of stocks and gold becomes a line, not curve. Gold and stocks move perfectly together; Diversification benefit of holding gold with stocks disappears. ![](resource/Pasted image 20240415181356.png)
+- a) Yes. Because of diversification. Gold has a low or negative correlation with stocks. By including gold, an investor can potentially reduce the portfolio's overall volatility. ![](resource/Pasted%20image%2020240415180943.png)
+- b) Nobody holds gold. The bundle of stocks and gold becomes a line, not curve. Gold and stocks move perfectly together; Diversification benefit of holding gold with stocks disappears. ![](resource/Pasted%20image%2020240415181356.png)
 - c) The set of assumptions does not represent an equilibrium for the security market, if the correlation coefficient is 1 and gold is riskier and less profitable than stocks.
 	- In efficient market, gold would need to either offer a higher expected return to justify its higher risk compared to stocks or have a lower correlation with stocks to offer diversification benefits.
 
 
-![](resource/Pasted image 20240415175211.png)
+![](resource/Pasted%20image%2020240415175211.png)
 ### 12)
 - In equilibrium, expected return of portfolio will be the risk-free rate, because stock A and B are perfectly negatively correlated.
 - $\sigma_P = |w\sigma_A-(1-w)\sigma_B|$
@@ -130,7 +130,7 @@ Sharpe Ratio: $\cfrac{E(R_P)-R_f}{\sigma_P} \approx \cfrac{0.1561-0.08}{0.1654}=
 
 ## Ch. 8(Index Models): #9, 10, 11, 12, 13, 14, 17
 
-![](resource/https://lh7-us.googleusercontent.com/kNXmefeyN0cgq7o6gdInmI1hB7uV-EcnlGOkeWDg60Jvw6mpiIL_TSaUlWltRQHSXpUT9-2gJhM3tDqwedUMk44l4ksr7M4C_Vs6wPLEeN2DY2v-OTU3gU2-OweROVl_GczjvOu06Mfe7CCZVA8AigM)
+![](https://lh7-us.googleusercontent.com/kNXmefeyN0cgq7o6gdInmI1hB7uV-EcnlGOkeWDg60Jvw6mpiIL_TSaUlWltRQHSXpUT9-2gJhM3tDqwedUMk44l4ksr7M4C_Vs6wPLEeN2DY2v-OTU3gU2-OweROVl_GczjvOu06Mfe7CCZVA8AigM)
 
 ### 9)
 $R_i^2=\cfrac{\beta_i^2\sigma_M^2}{\sigma_i^2}$
@@ -182,7 +182,7 @@ $R_i^2=\cfrac{\beta_i^2\sigma_M^2}{\sigma_i^2}$
 
 
 
-![](resource/https://lh7-us.googleusercontent.com/n0UDzgxmVGhNZVWBc9sdCmMkRn0-omBBXAuDc7gd5rvFumNwT7e2lLlA01LKTXm78tKlvVCljSpPvvRBknedumrZ7I8YlhTndYpgbAPSHdkIiLnL_2Xh-sALkGAK0Vv3usJWrXy3w8VZXks8Vv6M0dU)
+![](https://lh7-us.googleusercontent.com/n0UDzgxmVGhNZVWBc9sdCmMkRn0-omBBXAuDc7gd5rvFumNwT7e2lLlA01LKTXm78tKlvVCljSpPvvRBknedumrZ7I8YlhTndYpgbAPSHdkIiLnL_2Xh-sALkGAK0Vv3usJWrXy3w8VZXks8Vv6M0dU)
 ### 17)
 Risk free rate is T-bills' expected return: $R_f = 8\%$
 Market's return is the expected return of passive equity portfolio: $E(R_M)=16\%$
@@ -266,7 +266,7 @@ Whole position
 
 ## Ch. 9(Capital Asset Pricing Model): #17, 18, 19; CFA문제 #12 
 
-![](resource/https://lh7-us.googleusercontent.com/HKZBR-g6MCPDtUcHvj2HyTgb4ZsbCUroSxG7jGoXn0CJiz6ySjPop6YBEaAIzX8v2wFBL6VLn883Ufaq9xfNgPkfbTID8oW6c1jyeDA7NMk4udcuPL_DV71eD0jHP5y0z-PZufM1RhrcM2kgzUxGMxw)
+![](https://lh7-us.googleusercontent.com/HKZBR-g6MCPDtUcHvj2HyTgb4ZsbCUroSxG7jGoXn0CJiz6ySjPop6YBEaAIzX8v2wFBL6VLn883Ufaq9xfNgPkfbTID8oW6c1jyeDA7NMk4udcuPL_DV71eD0jHP5y0z-PZufM1RhrcM2kgzUxGMxw)
 
 
 ### 17)
@@ -284,7 +284,7 @@ Whole position
 - $0.06+ \beta \times (0.16-0.06) = 0.04$
 - $\beta = -0.2$
 
-![](resource/https://lh7-us.googleusercontent.com/FKXQj62C78d-kxmIl7Yjex03y5aEPKQ4gKz00qf5OpFrsFBiCW8VI75lBFi4EsTTJitxDYOaUL_d-hpJjyHiVASE83nV3yXZs3VcxfhFs-xcK7iVZBsAAT5PAcBqEgFnwp1R6yITv7Zv-kSGs3gkxjo)
+![](https://lh7-us.googleusercontent.com/FKXQj62C78d-kxmIl7Yjex03y5aEPKQ4gKz00qf5OpFrsFBiCW8VI75lBFi4EsTTJitxDYOaUL_d-hpJjyHiVASE83nV3yXZs3VcxfhFs-xcK7iVZBsAAT5PAcBqEgFnwp1R6yITv7Zv-kSGs3gkxjo)
 
 ### 12)
 - a)
@@ -300,7 +300,7 @@ Whole position
 		- X: $\cfrac{0.14-0.05}{0.36}=0.25$ < Y:$\cfrac{0.17-0.05}{0.25}=0.48$
 ## Ch. 10(Arbitrage Pricing Theory): #5, 10; CFA문제 #1, 2, 7, 8 
 
-![](resource/https://lh7-us.googleusercontent.com/154Oz-f9B2bP1MVUVgojqWnkjj1CbtuymKoq3_Od4cDQSTV6mnL3va_vhSQcAFwbzHHNQgxQgTMfSfNF4k-btN6NxtE9ugQDsb68ibffE2cGYbQb79zD_rmOVswHUbymKx5eVZOStGi2gMuyacqCjwg)
+![](https://lh7-us.googleusercontent.com/154Oz-f9B2bP1MVUVgojqWnkjj1CbtuymKoq3_Od4cDQSTV6mnL3va_vhSQcAFwbzHHNQgxQgTMfSfNF4k-btN6NxtE9ugQDsb68ibffE2cGYbQb79zD_rmOVswHUbymKx5eVZOStGi2gMuyacqCjwg)
 ### 5) 
 Ratio of risk premium to beta
 - A: $\cfrac{0.12-0.06}{1.2}=0.05$
@@ -313,14 +313,14 @@ It means that an arbitrage opportunity exists. Create a new portfolio G which ha
 Therefore, go long on portfolio G and go short on portfolio E
 
 
-![](resource/https://lh7-us.googleusercontent.com/beycvQa2eZfkGoSoBSq9yNERZvmdRZDdK-zYhuF69qX4KSMivtwYe7YXuoZYz653nrgIOObpimOhwQGxUftTzQ2dholH4LJfH1bM5WR6545r3jqJ-ekQYSBHU78wWGezds_pr5ALc6bsj_XP9jW-V-U)![](resource/https://lh7-us.googleusercontent.com/8Kw9cNQrF9Gw2WUUGimOJHHEGEWCCOc71FyIammkA1bvRcDekYYa_4bsRtpMBEyEF1jCZfoQ3VmCFoTeYfTZ5JyIJ6Ys4d0ELoL-9tS6_Sf94x4Su8RmnvM0RskpU9iV0gjh6G11Cdpg-fdm4mtMTxQ)
+![](https://lh7-us.googleusercontent.com/beycvQa2eZfkGoSoBSq9yNERZvmdRZDdK-zYhuF69qX4KSMivtwYe7YXuoZYz653nrgIOObpimOhwQGxUftTzQ2dholH4LJfH1bM5WR6545r3jqJ-ekQYSBHU78wWGezds_pr5ALc6bsj_XP9jW-V-U)![](https://lh7-us.googleusercontent.com/8Kw9cNQrF9Gw2WUUGimOJHHEGEWCCOc71FyIammkA1bvRcDekYYa_4bsRtpMBEyEF1jCZfoQ3VmCFoTeYfTZ5JyIJ6Ys4d0ELoL-9tS6_Sf94x4Su8RmnvM0RskpU9iV0gjh6G11Cdpg-fdm4mtMTxQ)
 ### 10) 
 - a) $0.06+1.2\cdot0.06 +0.5\cdot0.08+0.3\cdot0.03=0.06+0.072+0.04+0.009$
 	- $\therefore 0.452$
 - b) $1.2(0.04-0.05)+0.5(0.06-0.03)+0.3(0-0.02)=-0.12+0.015-0.006=0.111$
 	- $\therefore 0.452-0.111=0.341$
 
-![](resource/https://lh7-us.googleusercontent.com/M7DkHtTSL57bAOGIFSHe83xDJse9gaaz0MATDuWFPdsL9s6asSxPeGhHAorsYVoSPJF9tjyU8_wdtf8SZ1NLSqx-f8gwtm699oQQYewQz6m4UGd2uX4fbwWMMKhMS31WzBzcFJRt7SjpniVbGcOlRvo)![](resource/https://lh7-us.googleusercontent.com/geCDSR2N-7ZAoaw-iNoLXPq3K8oVqNbfuFB_56txPxi2HI3FptcNE3G-OtK5BhEaATydqwIVsKyUsVQUOl1PWklYHhc4faZMpBT5vnHf6I636BKWu4fVXBDb53m07ttt9Me9AAe0DmgWCA3mU9utnNU)
+![](https://lh7-us.googleusercontent.com/M7DkHtTSL57bAOGIFSHe83xDJse9gaaz0MATDuWFPdsL9s6asSxPeGhHAorsYVoSPJF9tjyU8_wdtf8SZ1NLSqx-f8gwtm699oQQYewQz6m4UGd2uX4fbwWMMKhMS31WzBzcFJRt7SjpniVbGcOlRvo)![](https://lh7-us.googleusercontent.com/geCDSR2N-7ZAoaw-iNoLXPq3K8oVqNbfuFB_56txPxi2HI3FptcNE3G-OtK5BhEaATydqwIVsKyUsVQUOl1PWklYHhc4faZMpBT5vnHf6I636BKWu4fVXBDb53m07ttt9Me9AAe0DmgWCA3mU9utnNU)
 ### 1) 
 - a) Incorrect: Only CAPM requires a mean-variance efficient market portfolio
 - b) Incorrect: Only CAPM assumes normally distributed security returns
@@ -334,7 +334,7 @@ Answer is b.
 	- $E(R_Y) = 0.08+0.25(0.16-0.08)=0.10$
 - Therefore, it offers an arbitrage opportunity
 
-![](resource/https://lh7-us.googleusercontent.com/tZ2C9Lo43x_OqDx3bgpuv2zNPqppasYVJlsxTmNOrIj1nQSeizq8Fb-Bl1Bra7AZ2PZnqnB7PCQuhmcIjVjaifCUch8BgwZBJ3RTq8Rw5UShnGE3l664XBGRHjZFSUID4SBYFgempHQbm5qWqiLGlSM)
+![](https://lh7-us.googleusercontent.com/tZ2C9Lo43x_OqDx3bgpuv2zNPqppasYVJlsxTmNOrIj1nQSeizq8Fb-Bl1Bra7AZ2PZnqnB7PCQuhmcIjVjaifCUch8BgwZBJ3RTq8Rw5UShnGE3l664XBGRHjZFSUID4SBYFgempHQbm5qWqiLGlSM)
 ### 7)
 The answer is d
 - a) APT does indeed take into account multiple factors but CAPM does not.

@@ -12,7 +12,7 @@ Finding:
 - The magnitude of the drift depends on the capital gains (losses) experienced by the stock holders on the event date.
 - An event-driven strategy based on this effect yields monthly alphas of over 200 basis points.
 
-![](resource/Pasted image 20240518233619.png)
+![](resource/Pasted%20image%2020240518233619.png)
 
 ### Conclusion
 
