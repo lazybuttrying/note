@@ -122,7 +122,7 @@ Assume: Independence
   - $=\frac{\sigma^2_1}{n_1}+\frac{\sigma^2_2}{n_2}$
 - 서로 분산이 동일하다면 ($\sigma^2_1=\sigma^2_2$), $=\sigma(\frac{1}{n_1}+\frac{1}{n_2})$
 - 모수를 모른다면,
-  - $\hat{\sigma}_{\bar{X_1}-\bar{X_2}}=\frac{s^2_1}{n_1}+\frac{s^2_2}{n_2} = s^2_{pool}(\frac{1}{n_1}+\frac{1}{n_2})$ 
+  - $\hat{\sigma}_{\bar{X_1}-\bar{X_2}}=\frac{s^2_1}{n_1}+\frac{s^2_2}{n_2} = s^2_{pool}(\frac{1}{n_1}+\frac{1}{n_2})$
     
     - $s^2_{pool} = \cfrac{(n_1-1)s_1^2+(n_2-1)s_2^2}{n_1+n_2-2}$
 
@@ -156,7 +156,7 @@ ex1) $n_1=n_2=100$, $\mu_{\bar{X}_m}=120$, $\mu_{\bar{X}_f}=100$, $s_{\bar{X}_m}
   - 가설검증은 영가설 기각 여부만 논할 뿐. t-test라면 두 평균의 차이 여부만 볼 뿐, 그 차이가 얼마나 큰 지, 다시 연구를 하면 반복 검증이 가능한지 등에 대한 정보는 제공하지 않음. 이럴 때는 effect size와 power
   - 평균의 차이에 대한 effect size $d=\cfrac{|\mu_1-\mu_2|}{\sigma}$
   - 이 때의 estimator of $\sigma$는 $\hat{\sigma} = \sqrt{\cfrac{s_1^2+s_2^2}{2}}$
-  - 
+  
 
 
 
