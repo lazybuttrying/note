@@ -148,3 +148,16 @@ ex1) $n_1=n_2=100$, $\mu_{\bar{X}_m}=120$, $\mu_{\bar{X}_f}=100$, $s_{\bar{X}_m}
   - df: $n-2$ from $y=ax+b$
   - $t(n-2)= \cfrac{r-\rho}{SD_r}$
 
+
+---
+
+
+
+  - 가설검증은 영가설 기각 여부만 논할 뿐. t-test라면 두 평균의 차이 여부만 볼 뿐, 그 차이가 얼마나 큰 지, 다시 연구를 하면 반복 검증이 가능한지 등에 대한 정보는 제공하지 않음. 이럴 때는 effect size와 power
+  - 평균의 차이에 대한 effect size $d=\cfrac{|\mu_1-\mu_2|}{\sigma}$
+  - 이 때의 estimator of $\sigma$는 $\hat{\sigma} = \sqrt{\cfrac{s_1^2+s_2^2}{2}}$
+  - 
+
+
+
+
