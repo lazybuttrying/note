@@ -1,4 +1,6 @@
 
+[The Cross-Section of Expected Stock Returns](The%20Cross-Section%20of%20Expected%20Stock%20Returns.md)
+
 **기술 연결과 예측 가능한 수익: 요약**
 
 기업 간 기술적 근접성이 미래 주식 수익률을 예측할 수 있는지 알아본다. 미국 특허 정보와 주식 수익률 데이터를 통합한 데이터셋을 사용하여 주목할 만한 상관관계를 발견했다. 기술적으로 밀접하게 연결된 기업들은 유사한 주식 수익률 패턴을 보였다

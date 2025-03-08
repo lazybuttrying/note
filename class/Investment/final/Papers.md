@@ -1,3 +1,4 @@
+[A five-factor asset pricing model](A%20five-factor%20asset%20pricing%20model.md)
 # 1. Technological Links and Predictable Returns
 
 - Technological affinity for market price discovery and firms' stock returns

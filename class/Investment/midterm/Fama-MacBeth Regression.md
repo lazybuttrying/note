@@ -1,4 +1,4 @@
-
+[Cross Section](Cross%20Section.md)
 - intercept = return on a standard portfolio (the weights on stocks sum to 1) in which weighted averages of the explanatory variables are 0 
 
 In case of panel data, esitmates the betas and risk premium for any risk factors that are expected to determine asset p

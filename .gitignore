@@ -1,3 +1,11 @@
 .obsidian
-**/**.DS_Store
-**/**.pdf
+.DS_Store
+.pdf
+
+*.pdf
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+

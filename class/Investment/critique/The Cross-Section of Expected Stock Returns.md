@@ -1,3 +1,4 @@
+[The Disposition Effect and Underreaction to News](The%20Disposition%20Effect%20and%20Underreaction%20to%20News.md)
 
 CAPM의 한계를 명시하고 size factor와 BE/ME factor를 도입하였다. CAPM은 market beta로 주식 수익률을 제대로 설명할 수 있다고 이야기하지만 실은 그렇지 않음을 이 논문에서 소개한다. 그러나 market beta가 제거해도 될 factor로 고려하지도 않는다. 대신 size factor를 효과적으로 드러내기 위해 beta 산식에 차이를 두었다. 
 본 논문에서는 pre-ranking beta와 post-ranking beta로 구분지었다. pre-ranking beta는 개별주식에 대해서 계산하며 post-ranking beta는 각 포트폴리오에 대해 계산한 결과다. 그 결과 pre-ranking beta 방식이 size effect와 구분된 market effect를 설명할 수 있었다.

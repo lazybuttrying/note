@@ -1,4 +1,4 @@
-
+[Value Investing. The Use  of Historical Financial  Statement Information to  Separate Winners from Losers](Value%20Investing.%20The%20Use%20%20of%20Historical%20Financial%20%20Statement%20Information%20to%20%20Separate%20Winners%20from%20Losers.md)
 ### Abstract
 
 Disposition effect: tendency of investors to ride losses and realize gains
