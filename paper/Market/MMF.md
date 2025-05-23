@@ -16,7 +16,7 @@ math: mathjax
 
 Federal Reserve Bank of New York Research Group
 
-JFE 2021 (Received 2 February 2019)
+JFE 2021 (Received February 2019)
 
 ---
 
@@ -81,14 +81,13 @@ JFE 2021 (Received 2 February 2019)
 
 ## Contribution
 
-- Define feature of money-like assets, information insensitivity
+- Define feature of money-like assets, information ***in***sensitivity
 - Estimate the premium for money-likeness even assets supplied by the private sector
-  - By exploiting a exogenous change (SEC Reform)
+  - By exploiting an exogenous change (SEC Reform)
 
-## Methodology
-- Difference-in-Difference
-  - Treatment: Prime MMF
-  - Control: Government MMF
+## Methodology 
+1. Difference-in-Difference
+2. Two Stage Least Squared Regression
 
 ---
 
@@ -121,7 +120,6 @@ Increase in Net-Yield spread
 
 ![w:700](image-3.png)
 
-
 ---
 
 ## Result 2: Elasticity of Substitution b/w Prime & Gov MMF
@@ -132,23 +130,38 @@ MMF Investor's Relative Demand for Prime vs Gov MMF
 
 - $q$: TNA(total net asset) of the Funds 
   - from diff of yield $\Delta y$: 
-    - treat MMF share as zero coupon bond \$1 face value $p=\cfrac{1}{1+y}$
+    - treat MMF share as zero coupon bond \$1 face value,  $p=\cfrac{1}{1+y}$
 - $p$: W.Avg Prices
   - Log form means $Spread_{it}$
 
 ---
 
 ## Result 2: Elasticity of Substitution b/w Prime & Gov MMF
-2LSR
-  - To instrument for the time-varying endogenous relative price
+2SLS
+  - Two instruments for the time-varying endogenous relative price 
+  - 1st stage
+    - The share of prime MMFs in the family
+    - The share of prime MMFs in the family interacted with a dummy for the post-October 2016 period
+
+  - 2nd
+    - Spread
+    - The additional spread after October 2016
+
   - Use familiy specialization in prime MMFs from a pre-sample period
     - MMF Specialization: how concentrated an MMF family’s business 
+
+
+
+---
+
+## Result 2: Elasticity of Substitution b/w Prime & Gov MMF
+
 
 ![h:350](image-5.png)
 
 ---
 
-## Result 2: Elasticity of Substitution b/w Prime & Gov MMF
+
 
 ![h:550](image-6.png)
 
