@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MMF.md</title>
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+html,footer,header{
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Custom MD PDF CSS
+ */
+html,footer,header{
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+
+ }
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+<link rel="stylesheet" href="file:///Users/doyeon/Documents/note/R%3A%5C2.Travail%5C1.Enseignement%5CCours%5C_1.Outils%5C2.Developpement%5C1.SCSS%5Cmain.css" type="text/css"><link rel="stylesheet" href="file:///Users/doyeon/Documents/note/D%3A%5Crdaros%5CCours%5C_1.Outils%5C2.Developpement%5C1.SCSS%5Cmain.css" type="text/css">
+</head>
+
+<body>
+    <h1 id="investors-appetite-for-money-like-assets">Investors’ appetite for money-like assets:</h1>
+<h1 id="the-mmf-industry-after-the-2014-regulatory-reform">The MMF industry after the 2014 regulatory reform</h1>
+<h2 id="marco-cipriani-gabriele-la-spada">Marco Cipriani, Gabriele La Spada</h2>
+<p>Federal Reserve Bank of New York Research Group</p>
+<p>JFE 2021 (Received 2 February 2019)</p>
+<hr>
+<h2 id="outline">Outline</h2>
+<ul>
+<li>Background</li>
+<li>Motivation</li>
+<li>Contribution &amp; Key Methodology</li>
+<li>Result
+<ol>
+<li>Premium for money-likeness</li>
+<li>Elasticity of Substitution b/w Prime &amp; Gov MMF</li>
+</ol>
+</li>
+</ul>
+<!-- - Methodology
+- Data (skip)
+- Results -->
+<hr>
+<h2 id="background-1-nonexistent-risk-free-but">Background 1: Nonexistent Risk Free, But...</h2>
+<ul>
+<li>Exists via combination of a market of people willing to buy the risk asset</li>
+<li>Distribute raw commodity $\implies$ Distribute Risk of the Commodity</li>
+</ul>
+<p><img src="file:///Users/doyeon/Documents/note/paper/Market/resource/image-1.png" alt="bg right w:600"></p>
+<!-- By "Money without boundaries: How Blockchain Will Facilitate the Decentralization of Money" by Thomas J. Anderson, Piliar 2 - The Credit Theory of Money, 2021 -->
+<hr>
+<h2 id="background-2-mmfmoney-market-fund">Background 2: MMF(Money Market Fund)</h2>
+<p><img src="file:///Users/doyeon/Documents/note/paper/Market/resource/image.png" alt="bg right w:600"></p>
+<ul>
+<li>Pegged to $1 per share, MMFs are a type of mutual fund that invests in short-term, low-risk securities</li>
+</ul>
+<hr>
+<h2 id="background-3-2014-sec-regulatory-reform">Background 3: 2014 SEC Regulatory Reform</h2>
+<h5 id="enhanced-disclosure-requirements">Enhanced Disclosure Requirements</h5>
+<ul>
+<li>
+<p>The reform mandated liquidity fees and redemption gates for prime MMF (not gov MMF), additionally floating NAV only for <em><strong>institutional prime MMFs</strong></em></p>
+<ul>
+<li><em><strong>Floating NAV</strong></em>: Round to the nearest 1/1000 of a cent for the asset value of the fund, instead of at a $1.00 stable share price</li>
+<li><em><strong>Gate</strong></em>: fine liquidity fees or suspending redemptions temporarily when fund's weekly liquid assets fall below a certain threshold</li>
+</ul>
+</li>
+<li>
+<p>https://www.sec.gov/newsroom/press-releases/2014-143</p>
+</li>
+</ul>
+<hr>
+<h2 id="motivation-from-title">Motivation from title</h2>
+<ul>
+<li><em><strong>money-like asset</strong></em> = MMF is not risk free. It has non-zero volatility like asset</li>
+<li>2014 <em><strong>regulatory reform</strong></em> = for adverse selection b/w inst and retail investors</li>
+<li><em><strong>Investors' appetite</strong></em>:  = Premium of money-likeness for risk aversion</li>
+</ul>
+<p><img src="file:///Users/doyeon/Documents/note/paper/Market/image.png" alt="h:400"></p>
+<hr>
+<h2 id="contribution">Contribution</h2>
+<ul>
+<li>Define feature of money-like assets, information insensitivity</li>
+<li>Estimate the premium for money-likeness even assets supplied by the private sector
+<ul>
+<li>By exploiting a exogenous change (SEC Reform)</li>
+</ul>
+</li>
+</ul>
+<h2 id="methodology">Methodology</h2>
+<ul>
+<li>Difference-in-Difference
+<ul>
+<li>Treatment: Prime MMF</li>
+<li>Control: Government MMF</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="result-1-premium-for-money-likeness">Result 1: Premium for Money-Likeness</h2>
+<p><img src="file:///Users/doyeon/Documents/note/paper/Market/image-1.png" alt=" w:450"></p>
+<ul>
+<li>$y_{ijkt}$: W.Avg Net Yield of MMF
+<ul>
+<li>
+<p>$k \in {prime(1), \ government(0) }$</p>
+</li>
+<li>
+<p>$j \in {inst, \ retail}$ : Share classes</p>
+</li>
+<li>
+<p>$i$: Family = Same investment bank</p>
+</li>
+<li>
+<p>$t$: Month</p>
+<ul>
+<li>$1_{t \geq Nov. \ 2015}$: <em><strong>started to react</strong></em></li>
+<li>$1_{t \geq Oct. \ 2016}$: the <em><strong>regulation onward</strong></em></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p><img src="file:///Users/doyeon/Documents/note/paper/Market/image-2.png" alt="bg right:35% w:430"></p>
+<hr>
+<h2 id="result-1-value-of-info-insensitivity-in-fee-and-gross-yield">Result 1+: Value of Info. Insensitivity in Fee and Gross Yield</h2>
+<p>Increase in Net-Yield spread</p>
+<ul>
+<li>$\impliedby$  Decrease in Fee</li>
+<li>$\impliedby$  Increase in Gross-yield spread or both</li>
+</ul>
+<p><img src="file:///Users/doyeon/Documents/note/paper/Market/image-3.png" alt="w:700"></p>
+<hr>
+<h2 id="result-2-elasticity-of-substitution-bw-prime--gov-mmf">Result 2: Elasticity of Substitution b/w Prime &amp; Gov MMF</h2>
+<p>MMF Investor's Relative Demand for Prime vs Gov MMF</p>
+<p><img src="file:///Users/doyeon/Documents/note/paper/Market/image-4.png" alt="w:450"></p>
+<ul>
+<li>$q$: TNA(total net asset) of the Funds
+<ul>
+<li>from diff of yield $\Delta y$:
+<ul>
+<li>treat MMF share as zero coupon bond $1 face value $p=\cfrac{1}{1+y}$</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>$p$: W.Avg Prices
+<ul>
+<li>Log form means $Spread_{it}$</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="result-2-elasticity-of-substitution-bw-prime--gov-mmf">Result 2: Elasticity of Substitution b/w Prime &amp; Gov MMF</h2>
+<p>2LSR</p>
+<ul>
+<li>To instrument for the time-varying endogenous relative price</li>
+<li>Use familiy specialization in prime MMFs from a pre-sample period
+<ul>
+<li>MMF Specialization: how concentrated an MMF family’s business</li>
+</ul>
+</li>
+</ul>
+<p><img src="file:///Users/doyeon/Documents/note/paper/Market/image-5.png" alt="h:350"></p>
+<hr>
+<h2 id="result-2-elasticity-of-substitution-bw-prime--gov-mmf">Result 2: Elasticity of Substitution b/w Prime &amp; Gov MMF</h2>
+<p><img src="file:///Users/doyeon/Documents/note/paper/Market/image-6.png" alt="h:550"></p>
+<hr>
+<h1 id="fin">Fin.</h1>
+
+</body>
+
+</html>

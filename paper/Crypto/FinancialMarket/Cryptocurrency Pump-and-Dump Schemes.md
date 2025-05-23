@@ -40,7 +40,7 @@ Classification of price manipulation (Allen and Gale, 1992)
 - P&D episode lasts for ...
   - 🪙 several minutes
   - 📜 months
-  - (Aggarwal and Wu, 2006; Hackethal et al., 2019)
+  - (Aggarwal and Wu, 2006; Hacketal et al., 2019)
 - False information release or company action related to P&D
   - 🪙 No (not exist)
   - 📜 Yes (exist) -> in order to manipulation
