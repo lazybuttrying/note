@@ -1,6 +1,7 @@
 .obsidian
 .DS_Store
 .pdf
+*.html
 
 *.pdf
 
