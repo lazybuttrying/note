@@ -47,15 +47,6 @@
 **2-3. Conclusion**
 - Overall, I believe that + {my opinion}
 
-# 3. Note-taking
-
-| !!!                                                                                                 |                                                                                                                                                             |                                                                                                                                                                |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| - advantage -> adv.<br>- disadvantage -> X adv.                                                     | - opposite -> opp.<br>	- opposite opinion -> oppo.                                                                                                          | - capacity -> capa.<br>- require -> req.                                                                                                                       |
-| - with -> w/<br>- because -> b/c<br>- years -> yrs<br>- ppl -> population<br>- traditional -> trad. | - problem -> prob.<br>- evidence -> evid.<br>- condition -> condi.<br>- transportation -> transp.<br>- structure -> struct.<br>- malfunctioning -> malfunc. | - community -> comm.<br>- communication -> commun.<br>- environment -> **environ.**<br>- business -> biz.<br>- chemical -> chem.<br>- illumination -> illumin. |
-| - positive -> posit.<br>- negative -> **neg.**<br>- effective- > effec.<br>- difficult -> diffic.   | - insufficient -> insuffic.<br>- impossible -> impossib. (infeasible)<br>- immediate -> immedi.                                                             | - eliminate -> elimi.<br>- vulnerable -> vulner.<br>- worthwhile -> worth.<br>- artifical -> artifi.                                                           |
-| - economy -> econ.<br>- ecosystem -> eco.                                                           | - original -> origin.<br>- horizontal -> horiz.<br>- convenient -> conveni.                                                                                 | - Stockholm -> Stock.                                                                                                                                          |
-
 # 4. Paraphrasing
 
 - kill tree -> cause the death of a tree
