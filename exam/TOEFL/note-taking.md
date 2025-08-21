@@ -13,3 +13,33 @@
 |                                                                                                                                                                                     |                                                                                                                                                                                                     |                                                                                                                                                                                                    |
 | - lecture -> lec.<br>- scholarship -> sch.<br>- student -> stud.<br>- subject -> subj.                                                                                              | - Stockholm -> Stock.                                                                                                                                                                               | - subconscious -> subconsc.<br>- vegetation -> vege. 초목<br>- organism -> org.                                                                                                                      |
 |                                                                                                                                                                                     |                                                                                                                                                                                                     |                                                                                                                                                                                                    |
+
+# Consonants: drop aeiou
+
+https://tstprep.com/articles/toefl/taking-notes-for-the-listening-section-of-the-toefl-test/
+
+https://toefltestprep.com/blog/helpful-abbreviations-for-speedy-note-taking
+
+- sleep -> slp
+- symptoms -> smptms
+- depression -> dprsn
+- anxiety -> anxty
+- create -> crete
+- common -> cmn
+- disorder -> dsrdr
+
+
+# Symbols
+- $+$ : benefit, positive / also, as well / together, combine
+- $\empty$ : not, no / negative / stop
+- $?$ : I'm not sure / question
+
+
+# What info: Things you ... write down
+- could: relatively easy to remember, so don’t have to write
+- should: important info. 
+- must: important info. & difficult to remember
+
+# Section
+
+![alt text](image.png)
