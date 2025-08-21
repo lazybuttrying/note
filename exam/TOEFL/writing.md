@@ -47,6 +47,13 @@
 **2-3. Conclusion**
 - Overall, I believe that + {my opinion}
 
+> (1) I understand why 학생 thinks that 학생의 의견 재진술.
+> (2) However, in my opinion, 내 의견 진술.
+> (3) This is largely because 이유 서술.
+> (4) My opinion can be supported by the fact that 구체적 근거1: 일반적 진술.
+> (5) For example, (To be specific,) 구체적 근거 2: 예시.
+> (6) Overall, I strongly believe that 내 의견 재 진술.
+
 # 4. Paraphrasing
 
 - kill tree -> cause the death of a tree
