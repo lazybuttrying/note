@@ -1,6 +1,14 @@
 
 # 1. Integrated Task
-### 1. Expression
+### 1. Logical Structure
+- 3 theories, basises, reasons, Xadv. / wrong, ineffective, risky
+- experiments / wrong result
+- Yes / No: good or bad, need or not ...
+- A is B / No, A is not B, (A is C)
+
+
+
+### 2. Expression
 - Counter-opinion
 	- the theories about whey ~~~ are implausible.
 	- the theory about ~~~ is an insufficient explanation.
@@ -8,22 +16,22 @@
 - the lecturer ~~~ that ~~~
 	- argues, contends, points out, asserts, maintains
 
-### 2. Answer
-**1-1. Intro**
+### 3. Answer
+**3-1. Intro**
 - Intro of LS: The lecturer **argues** that + {}
 - Topic of RS: This **contradicts** the reading passage's claim that + {}
 
-**1-2. Body 1**
+**3-2. Body 1**
 - Counter of LS: First, + the lecturer **asserts** that {}
 - Detail of LS
 - Reason of RS: This **casts doubt on** the reading passage's claim that
 
-**1-3. Body 2**
+**3-3. Body 2**
 - Counter of LS: Next, + the lecturer **contends** that + {}
 - Detail of LS
 - Reason of RS: This **counters** the reading passage's claim that
 
-**1-4. Body 1**
+**3-4. Body 1**
 - Counter of LS: Finally, + the lecturer **points out** that {}
 - Detail of LS
 - Reason of RS: This **refutes** doubt on the reading passage's claim that
