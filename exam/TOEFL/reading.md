@@ -1,12 +1,16 @@
 # 1. Tips
 
-1. Flow to read
+1. Focus on 'What and Which ==opinion/thought== about ==sth== does writer deliever?'
+	1. Find 'topic sentence' on each paragraphs
+ 	2. Find 'Main Keyword' of the sentence in (Summary, Insertion)    	
+
+3. Flow to read
 	1. Read title only
 	2. Read Questions
 	3. Scanning the body to solve each question 
 		1. Also grabs the main flow of the content for the question of summary & category chart
         
-2. 7 paragraphs
+4. 7 paragraphs
 - basic?
 	- Intro 1 -> Point 1: 2&3 
 - history topic
@@ -47,11 +51,20 @@
 	6. Verify: demonstrate / show
 
 ### 2-7. [Insert] Insertion
-- Hint: this, that / however therefore / a, the
+- Tip: Find Target of noun -> Check the storyflow based on conjunction
+	- one or many? -> human or animal or object? 
+- Hint: this, that / however therefore, in fact
+   - a, an, the / those, these / them
+   - time expression
+- Compare: bigger s.t  sth smaller than the sentence
+   - higher, larger, ...
+- New: s.t not exists in previously
+- IFF: Same type but another example (Another) 
 
 ### 2-8. [Summary] Three Major Sentences
 - Tip: Select the **major** sentences based on the 'Introductory Section' & 'note-taking'
 	- connect each answer choices to section in passage
+- X: Minor Idea, Unmentioned content
 ### 2-9. [Category] Classification
 - Tip: Mark the paragraph number for each answer
 
